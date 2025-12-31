@@ -1,49 +1,60 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F05133&center=true&vCenter=true&width=435&lines=Hi+I'm+Tayeb;Full+Stack+Developer;Creative+Coder;Problem+Solver" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <h3>🚀 Building Scalable Web Applications & Solving Problems</h3>
-</div>
+<h1 align="center">Hi 👋, I'm Tayeb</h1>
 
 <p align="center">
-  I am a passionate developer from <b>Bangladesh 🇧🇩</b> with a strong foundation in Computer Science. I specialize in building responsive front-ends and robust back-ends using the MERN stack and PHP.
+  <img src="https://komarev.com/ghpvc/?username=Tayeb114&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Tayeb114?label=Followers&style=flat&color=0e75b6" alt="followers" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
-<div align="center">
-  <h2>🛠️ Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,mongodb,mysql,php,c,cpp,git,github,vscode,html,css&perline=8&theme=dark" />
-</div>
+---
 
-<br/>
+## 👨‍💻 About Me
 
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=tayeb12334&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayeb12334&layout=compact&theme=radical" height="180" alt="languages" />
-</div>
+💡 Passionate about **Web Development, Automation & Creative Coding**  
+✨ Love turning ideas into clean, responsive web applications  
+🧠 Strong foundation in **C, C++ & Data Structures**  
+🌍 From **Bangladesh 🇧🇩**
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tayeb12334&theme=radical&border_radius=5" alt="streak" />
-</div>
+### 📌 Current Focus
 
-<br/>
+💭 **Currently learning:** React & Tailwind CSS  
+🚀 **Working on:** Frontend & React-based projects  
+🤝 **Collaborating on:** Beginner-friendly & exciting web projects  
+📬 **Contact:** *Coming soon*  
+🌐 **Portfolio:** *Coming soon*  
 
-<div align="center">
-  <h2>🏆 Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=tayeb12334&theme=radical&no-frame=true&column=7" alt="trophy" />
-</div>
+---
 
-<br/>
-<hr/>
+## 📊 GitHub Stats & Top Languages
 
 <p align="center">
-  <a href="https://github.com/tayeb12334">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tayeb114&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayeb114&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tayeb114&theme=tokyonight&border_radius=5"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,c,cpp,git,github,vscode" />
+</p>
+
+---
+
+<p align="center">
+  🚀 <b>Creating, Learning, and Growing — One Commit at a Time.</b>
 </p>
