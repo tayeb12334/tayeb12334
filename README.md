@@ -33,8 +33,8 @@
 ## 📊 GitHub Stats & Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tayeb114&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayeb114&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tayeb12334&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayeb12334&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tayeb114&theme=tokyonight&border_radius=5"/>
+  <img src="https://streak-stats.demolab.com?user=Tayeb12334&theme=tokyonight&border_radius=5"/>
 </p>
 
 ---
