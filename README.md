@@ -58,3 +58,12 @@
 <p align="center">
   🚀 <b>Creating, Learning, and Growing — One Commit at a Time.</b>
 </p>
+
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tayeb12334&theme=tokyonight&no-frame=true&row=1"/>
+</p>
+
