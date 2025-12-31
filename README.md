@@ -11,9 +11,9 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate developer from **Bangladesh 🇧🇩** combining a strong algorithmic foundation in **C & C++** with modern web technologies. Currently, I am focused on **Full Stack Development**, building robust, scalable applications using **Node.js, Express, and MongoDB** on the backend.
+I'm a web developer focused on building complete, scalable web applications. My coding journey began with **C and C++**, which helped me understand the logic of programming, but my true interest lies in **Full Stack Development**.
 
-I love bridging the gap between efficient database management and dynamic user interfaces built with **React & Tailwind CSS**. My goal is to create seamless digital experiences by leveraging the power of the MERN stack while maintaining clean and optimized code.
+Currently, I am diving deep into the **MERN Stack**. I enjoy using **Node.js and Express** to build functional backends and manage data with **MongoDB**. On the client side, I love creating responsive and interactive interfaces using **React and Tailwind CSS**.
 
 ---
 
