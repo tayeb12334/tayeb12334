@@ -9,17 +9,20 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am a passionate **Web Developer** from **Bangladesh 🇧🇩** focused on **Automation & Creative Coding**. I specialize in turning ideas into clean, responsive web applications using **React & Tailwind**, backed by a strong foundation in **C, C++ & Data Structures**.
+I am a passionate developer from **Bangladesh 🇧🇩** combining a strong algorithmic foundation in **C & C++** with modern web technologies. Currently, I am focused on **Full Stack Development**, building robust, scalable applications using **Node.js, Express, and MongoDB** on the backend.
+
+I love bridging the gap between efficient database management and dynamic user interfaces built with **React & Tailwind CSS**. My goal is to create seamless digital experiences by leveraging the power of the MERN stack while maintaining clean and optimized code.
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,mongodb,mysql,php,c,cpp,git,github,vscode,html,css&perline=8&theme=dark" />
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,c,cpp,git,github,vscode" />
-</p>
+<br/>
 
 ---
 
