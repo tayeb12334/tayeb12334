@@ -19,7 +19,7 @@ Currently, I am diving deep into the **MERN Stack**. I enjoy using **Node.js and
 
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,mongodb,mysql,php,c,cpp,git,github,vscode,html,css&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,mysql,php,c,cpp,git,github,vscode,figma&perline=8&theme=dark" />
 </div>
 
 <br/>
